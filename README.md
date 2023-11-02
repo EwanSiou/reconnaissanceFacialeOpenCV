@@ -52,7 +52,6 @@ pip install dlib
 Note that the dlib is quite long to install.
 
 Load the face recognition model from OpenCV called `haarcascade_frontalface_default.xml` into a variable called `face_cascade`.
-Download the file `shape_predictor_68_face_landmarks.dat` from this repository and put it a the root of your folder.
 
 With dlib, create a variable called `detector`, to store the frontal face detector.
 
