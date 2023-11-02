@@ -11,3 +11,15 @@ Remenber that in order to finish this workshop, you will need a webcam.
 ## Before starting
 
 Before you start your workshop, make sure that you have installed OpenCV for python.
+
+```shell
+pip install opencv-python
+```
+
+# Step 1
+
+Start by creating a `main.py` file at the root of your folder.
+
+```python
+import cv2
+```
