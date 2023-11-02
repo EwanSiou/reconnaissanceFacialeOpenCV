@@ -59,7 +59,7 @@ With dlib, create a variable called `detector`, to store the frontal face detect
 ## Step 6
 
 With the detector, find a way to identify all the faces on screen.
-With what you did in the [step 4](#Step 4), you should be able to draw a green rectangle around all the faces on screen.
+With what you did in the [step 4](#Step-4), you should be able to draw a green rectangle around all the faces on screen.
 
 ## Step 7
 
