@@ -40,7 +40,7 @@ Find how to take a screenshot from your webcam, when you press `Enter`, and save
 
 ## Step 4
 
-Fin how to draw a green rectangle on your window.
+Find how to draw a green rectangle on your window.
 
 ## Step 5
 
