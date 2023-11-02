@@ -1,4 +1,4 @@
-![OpenCV LOGO](https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png)
+![OpenCV LOGO](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/88112cattura-1.jpg)
 
 # reconnaissanceFacialeOpenCV
 This will be the repository for our Epitech workshop
