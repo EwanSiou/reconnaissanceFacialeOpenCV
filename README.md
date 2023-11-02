@@ -63,7 +63,7 @@ With what you did in the [fourth step](#Step 4), you should be able to draw a gr
 
 ## Step 7
 
-Load your photo from earlier with the function face_recognition.load_image_file() and encode-it with face_recognition.face_encoding()
+Load your photo from earlier with the function `face_recognition.load_image_file()` and encode-it with `face_recognition.face_encoding()`
 
 Now compare the face(s) from the screen and the one from your photo.
 Try to write a certain text over your head, and another if the face isn't recognized.
